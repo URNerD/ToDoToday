@@ -4,7 +4,7 @@
 
 If you haven't done these things, do them __today:__
 
-* Setup your GitHub account and a-mail me your user name.
+* Setup your GitHub account and e-mail me your user name.
 * Verify your e-mail address with GitHub.
 * Create a repository named: _your-user-name_.github.io and initialize it with a README.
 * Add a file called index.html, make it look like the example below.
