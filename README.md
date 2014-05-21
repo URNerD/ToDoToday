@@ -12,6 +12,8 @@ If you haven't done these things, do them __today:__
 * Check your e-mail for build errors.
 * Check out your page.
 
+![foo](github-verify.jpg)
+
 You can use this as a basic template for your index.html file:
 
 ```
