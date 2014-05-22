@@ -1,6 +1,6 @@
 # To Do Today
 
-This file can be found at http://github/URNerD/ToDoToday/README.md
+This file can be found at http://github/URNerD/ToDoToday
 
 ## 22 May 2014
 
@@ -10,11 +10,11 @@ If you haven't done these things, do them __today:__
 
 * Setup your GitHub account and e-mail me your user name.
 * Verify your e-mail address with GitHub.
-* Create a repository named: _your-user-name_.github.io and initialize it with a README.
+* Create a repository named: _your-user-name_.github.io and mark the checkbox to initialize it with a README before you   click the Create Repository button.
 * Add a file called index.html, make it look like the example below.
 * Commit the changes.
 * Check your e-mail for build errors.
-* Check out your page.
+* Check out your page at _your-user-name_.github.io.
 
 ![foo](github-verify.jpg)
 
