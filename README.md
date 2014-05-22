@@ -1,5 +1,9 @@
 # To Do Today
 
+This file can be found at http://github/URNerD/ToDoToday/README.md
+
+## 22 May 2014
+
 ## 21 May 2014
 
 If you haven't done these things, do them __today:__
