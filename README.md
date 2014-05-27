@@ -26,7 +26,12 @@ After that, it is time to try your hand at CSS. Your first objective will be to 
     color: red;
   }
   ```
-* After committing your changes you should be able to go to your github.io site and see that the text of the ```<h1>``` is now red.
+* After committing your changes you should be able to go to your github.io site and see that the text of the ```<h1>``` is now red. If it is not doublecheck your work and see if you can find and fix the problem.
+* Once you have the text red, see if you can make it Columbia Blue. To do this you'll need to learn how to enter colors as hexadecimal (hex) RGB values in CSS and also research the RGB values for Columbia Blue.
+* Change some other properties of the page, for example the background color of the body, or the font size.
+* How about a challenge – can you put the ```<h1>``` in a box with rounded corners?
+
+That should be plenty for today. Tomorrow we'll turn the list into a menu.
 
 
 ## 23 May 2014
