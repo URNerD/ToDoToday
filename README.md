@@ -11,14 +11,22 @@ After that, it is time to try your hand at CSS. Your first objective will be to 
 * Add an HTML file to your github.io repository for this project, you might call it something like static-plus-css.html.
 * Add a CSS file to your repository, a good name will relate it to the file (or files) it is supposed to style, if you used static-plus-css.html for the first file, you could call this one static-plus-css1.css.
 * In the HTML add a basic skeleton, in the body section set up a ```<h1>``` and an unordered list (```<h1>```). Unordered lists are often used for navigation. That's what were headed towards. The main purpose of the ```<h1>``` is to give us something easy to start styling.
-* Check that you see can see the new page when you go to your github.io site.
+* Commit your changes, then check that you see can see the new page when you go to your github.io site.
 * Now add a ```<link>``` tag in the ```<head>``` section of your HTML to tell the browser to include the CSS:
 
   ```
   <link rel="stylesheet" type="text/css" href="static-plus-css.css">
   ```
 
-* Test again to make sure that it still works (they page should like just like it did before, it should seem like you haven't done anything), then we'll start on adding CSS to change the appearance of the page.
+* Commit, and test again to make sure that it still works (they page should like just like it did before, it should seem like you haven't done anything), then we'll start on adding CSS to change the appearance of the page.
+* Switch to the CSS file and add the following code:
+
+  ```
+  h1 {
+    color: red;
+  }
+  ```
+* After committing your changes you should be able to go to your github.io site and see that the text of the ```<h1>``` is now red.
 
 
 ## 23 May 2014
