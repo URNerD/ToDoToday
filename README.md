@@ -2,6 +2,14 @@
 
 This file can be found at http://github/URNerD/ToDoToday
 
+## 27 May 2014
+
+Finish [Static HTML](https://github.com/URNerD/Static-HTML) if you haven't already done so.
+
+After that, it is time to try your hand at CSS. Your first objective will be to link a CSS file to an HTML Proceed thusly:
+
+* 
+
 ## 23 May 2014
 
 Start the [Static HTML](https://github.com/URNerD/Static-HTML) assignment – you can probably do this in one class period. See how much you can do without needing to use external sources. You might be pleasently surprised. However if you get stuck, [Google](https://google.com) is your friend. So are the [tag reference pages at W3 Schools](http://www.w3schools.com/tags/tag_a.asp). Searching on ```html _tag-name``` (e.g. ```html a```) will usually get you some useful links.
