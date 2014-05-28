@@ -2,7 +2,11 @@
 
 This file can be found at http://github/URNerD/ToDoToday
 
-## 27 May 2014
+## 5: 28 May 2014
+
+
+
+## 4: 27 May 2014
 
 Finish [Static HTML](https://github.com/URNerD/Static-HTML) if you haven't already done so.
 
@@ -34,15 +38,17 @@ After that, it is time to try your hand at CSS. Your first objective will be to 
 That should be plenty for today. Tomorrow we'll turn the list into a menu.
 
 
-## 23 May 2014
+## 3: 23 May 2014
 
 Start the [Static HTML](https://github.com/URNerD/Static-HTML) assignment – you can probably do this in one class period. See how much you can do without needing to use external sources. You might be pleasently surprised. However if you get stuck, [Google](https://google.com) is your friend. So are the [tag reference pages at W3 Schools](http://www.w3schools.com/tags/tag_a.asp). Searching on ```html _tag-name``` (e.g. ```html a```) will usually get you some useful links.
 
 When you're done the page should look something like this:
 
+![The Cone of Silence](cone-of-silence.jpg)
+
 Not the most beautiful page in the world, we'll get to the with CSS. HTML's job is to present the content.
 
-## 22 May 2014
+## 2: 22 May 2014
 
 Make sure you have completed the items from yesterday. You should be able to go to the URL: __http://_your-user-name_.github.io__ and see a page that looks something like the example below. You should absolutely not see the GitHub 404 (page not found) error page.
 
@@ -67,7 +73,7 @@ Your links should now work and take you to an error page – it should be a 404
 
 Now create the three files (if you don't already have them). You don't have to use my names… You can start by making bare bones files like your index.html – but put something different in them so that you can tell that you're getting to your new pages when you follow the links.
 
-## 21 May 2014
+## 1: 21 May 2014
 
 If you haven't done these things, do them __today:__
 
