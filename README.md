@@ -4,7 +4,7 @@ This file can be found at http://github/URNerD/ToDoToday
 
 ## 5: 28 May 2014
 
-
+In honor of EOC testing, today is a catch-up day. You should be through the work for the 27th (yesterday) or talking with me about where you are getting stuck.
 
 ## 4: 27 May 2014
 
