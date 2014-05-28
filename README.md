@@ -4,7 +4,7 @@ This file can be found at http://github/URNerD/ToDoToday
 
 ## 5: 28 May 2014
 
-In honor of EOC testing, today is a catch-up day. You should be through the work for the 27th (yesterday) or talking with me about where you are getting stuck.
+In honor of EOC testing, today is a catch-up day. You should be through the work for the 27th (yesterday) or talking with me about where you are getting stuck. By the end of the day I'd like to see your home page on github.io look like the example from May 22nd (the essential part is the list of links to your portfolio assignments), and the Static HTML link should look something like the example from the 23rd.
 
 ## 4: 27 May 2014
 
@@ -35,7 +35,7 @@ After that, it is time to try your hand at CSS. Your first objective will be to 
 * Change some other properties of the page, for example the background color of the body, or the font size.
 * How about a challenge – can you put the ```<h1>``` in a box with rounded corners?
 
-That should be plenty for today. Tomorrow we'll turn the list into a menu.
+That should be plenty for today. Next we'll turn the list into a menu.
 
 
 ## 3: 23 May 2014
