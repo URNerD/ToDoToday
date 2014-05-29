@@ -25,6 +25,8 @@ Try researching and setting these properties:
 * The font used for text in paragraph (p) tags.
 * The font used for heading (h1-6) tags.
 
+You can target specific groups of HTML elements with the _class_ attribute, and specific instances of an HTML element with the _id_ atribute. Try these out.
+
 ## 5: 28 May 2014
 
 In honor of EOC testing, today is a catch-up day. You should be through the work for the 27th (yesterday) or talking with me about where you are getting stuck. By the end of the day I'd like to see your home page on github.io look like the example from May 22nd (the essential part is the list of links to your portfolio assignments), and the Static HTML link should look something like the example from the 23rd.
