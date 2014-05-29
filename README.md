@@ -2,6 +2,29 @@
 
 This file can be found at http://github/URNerD/ToDoToday
 
+## 6: 29 May 2014
+
+The job of CSS is to let you control the presentation of your pages. Hopefully you got started a couple of days ago.
+
+CSS statements consist of _selectors_, _properties_, and _values_. Take a look at this example:
+
+```
+h1 {
+  color: #444444;
+}
+```
+'h1' is the selector, it identifies the HTML elements that are affected by the the properties and values in the curly braces following the selector. In this example we are setting the 'color' property to the value of '#444444' a dark gray.
+
+Try researching and setting these properties:
+
+* The color of the text.
+* The color of the background.
+* The size of the font used for text.
+* The border around an element.
+* The shape of the corners of the border around an element.
+* The font used for text in paragraph (p) tags.
+* The font used for heading (h1-6) tags.
+
 ## 5: 28 May 2014
 
 In honor of EOC testing, today is a catch-up day. You should be through the work for the 27th (yesterday) or talking with me about where you are getting stuck. By the end of the day I'd like to see your home page on github.io look like the example from May 22nd (the essential part is the list of links to your portfolio assignments), and the Static HTML link should look something like the example from the 23rd.
