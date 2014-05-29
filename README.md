@@ -4,6 +4,17 @@ This file can be found at http://github/URNerD/ToDoToday
 
 ## 6: 29 May 2014
 
+Very first thing. Do this today. Please. Really.
+
+Edit your index.html and at the top of the body section add a link in the ```<h1>``` to your GitHub page. This will make it much easier to get from your pages to their source code on GitHub. The top of the page is going to look something like this:
+
+```
+<body>
+
+  <h1><a href="">Your Name Here</a></h1>
+  
+```
+
 The job of CSS is to let you control the presentation of your pages. Hopefully you got started a couple of days ago.
 
 CSS statements consist of _selectors_, _properties_, and _values_. Take a look at this example:
