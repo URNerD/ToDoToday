@@ -2,6 +2,19 @@
 
 This file can be found at http://github/URNerD/ToDoToday
 
+## 7: 2 June 2014
+
+This would be a good time to do your [online resume](https://github.com/URNerD/Online-Resume).
+
+The basic plan is pretty simple:
+
+1. Steal the code from an example that you like.
+2. Understand it (at least a little bit) by looking for landmarks and patterns as you read the file from the top.
+3. Simplify the file – throw away the HTML that you don't need.
+4. Make simple changes to the CSS to customize the look of the file.
+
+Make changes in small steps so that you know what you've changed and you notice when things "blow up."
+
 ## 6: 29 May 2014
 
 Very first thing. Do this today. Please. Really.
