@@ -2,6 +2,19 @@
 
 This file can be found at http://github/URNerD/ToDoToday
 
+## 8: 4 June 2014
+
+Changing your resume CSS: the style sheet that goes with the [resume example]() at A List Apart is long and complex.
+And, parts of it look contradictory to me…
+
+One way to deal with these problems is to modify it by adding your own style sheet or by using a ```<style>``` tag
+in the head element of the resume HTML. This allows you to take advantage of the precendence of "cascading" style sheets. The precedence order goes like this:
+
+1. Browser defaults.
+2. External style sheets, in the order in which they are encountered.
+3. Style tags in the document, in the order in which they are encountered.
+4. Style attributes of individual HTML tags.
+
 ## 7: 2 June 2014
 
 This would be a good time to do your [online resume](https://github.com/URNerD/Online-Resume).
