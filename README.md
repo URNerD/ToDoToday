@@ -4,7 +4,7 @@ This file can be found at http://github/URNerD/ToDoToday
 
 ## 8: 4 June 2014
 
-Changing your resume CSS: the style sheet that goes with the [resume example]() at A List Apart is long and complex.
+Changing your resume CSS: the style sheet that goes with the [resume example](http://d.alistapart.com/a-case-for-responsive-resumes/demo.html) at A List Apart is long and complex.
 And, parts of it look contradictory to me…
 
 One way to deal with these problems is to modify it by adding your own style sheet or by using a ```<style>``` tag
