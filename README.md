@@ -2,6 +2,20 @@
 
 This file can be found at http://github/URNerD/ToDoToday
 
+## 9: 5 June 2014
+
+If you've got the [resume](https://github.com/URNerD/Online-Resume) completed then it's time for some JavaScript! Use the [HTML Dog JavaScript tutorial]() as a starting point. Use the JavaScript file and link that you created back on the 22nd of May to hold your work. I'd like you to demonstrate that you understand how to:
+
+1. Incorporate JavaScript into a web page.
+2. Access your browser's JavaScript console.
+3. Work with the basic elements of a JavaScript program (variables, math, conditionals, logic, and loops).
+2. Run JavaScript in response to events.
+3. Access parts of your HTML via the DOM.
+
+This is big stuff. Work on keeping it simple and understanding what you're doing. Seek to do less and understand more.
+
+As the final step design and then write a JavaScript program to do something small through the DOM, for example you could add the ability to show or hide some descriptive text.
+
 ## 8: 4 June 2014
 
 Changing your resume CSS: the style sheet that goes with the [resume example](http://d.alistapart.com/a-case-for-responsive-resumes/demo.html) at A List Apart is long and complex.
