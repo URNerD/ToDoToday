@@ -2,6 +2,10 @@
 
 This file can be found at http://github/URNerD/ToDoToday
 
+## 10: 11 June 2014
+
+Today is "pseudo selector" day. Pseudo selectors are the CSS way of dealing with the state of elements – links are an obvious place to use them. Pseudo selectors let you modify the appearance of a link depending on whether or not it has been visited, the location of the mouse pointer, and if you have clicked on it.
+
 ## 9: 5 June 2014
 
 If you've got the [resume](https://github.com/URNerD/Online-Resume) completed then it's time for some JavaScript! Use the [HTML Dog JavaScript tutorial]() as a starting point. Use the JavaScript file and link that you created back on the 22nd of May to hold your work. I'd like you to demonstrate that you understand how to:
