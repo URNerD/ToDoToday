@@ -17,6 +17,8 @@ A background color applied to an object in a box includes the padding. It does n
 
 You can see the box an element lives in if you right-click on it in Chrome and then scroll all the way to the bottom of the section of the window on the right the holds the CSS.
 
+See if you can create an illustration of the box model in CSS. The big challenge will be to show the bounds of the margin.
+
 ## 10: 11 June 2014
 
 Today is "pseudo selector" day. Pseudo selectors are the CSS way of dealing with the state of elements – links are an obvious place to use them. Pseudo selectors let you modify the appearance of a link depending on whether or not it has been visited, the location of the mouse pointer, and if you have clicked on it.
