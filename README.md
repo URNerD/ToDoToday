@@ -17,7 +17,9 @@ A background color applied to an object in a box includes the padding. It does n
 
 You can see the box an element lives in if you right-click on it in Chrome and then scroll all the way to the bottom of the section of the window on the right the holds the CSS.
 
-See if you can create an illustration of the box model in CSS. The big challenge will be to show the bounds of the margin.
+See if you can create an illustration of the box model in CSS. The big challenge will be to show the bounds of the margin. Something like this:
+
+![](http://www.w3schools.com/css/box-model.gif)
 
 ## 10: 11 June 2014
 
