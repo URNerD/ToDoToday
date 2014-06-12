@@ -2,6 +2,21 @@
 
 This file can be found at http://github/URNerD/ToDoToday
 
+## 11: 12 June 2014
+
+CSS uses a [box model](http://css-tricks.com/the-css-box-model/) to describe and control the space taken up by the elements of your design. Everything on a web page exists in a box.
+
+The box consists of:
+
+1. The object itself – the height and width of the object control the basic size of the box.
+2. Padding: the space between the object and the border of the box.
+3. The border: a, possibly zero width, border around the outside of the padding.
+4. The margin: the space between this box and the next one. The margin is outside of the border.
+
+A background color applied to an object in a box includes the padding. It does not include the margin.
+
+You can see the box an element lives in if you right-click on it in Chrome and then scroll all the way to the bottom of the section of the window on the right the holds the CSS.
+
 ## 10: 11 June 2014
 
 Today is "pseudo selector" day. Pseudo selectors are the CSS way of dealing with the state of elements – links are an obvious place to use them. Pseudo selectors let you modify the appearance of a link depending on whether or not it has been visited, the location of the mouse pointer, and if you have clicked on it.
